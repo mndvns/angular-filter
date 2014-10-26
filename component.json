@@ -1,0 +1,16 @@
+{
+  "name": "angular-filter",
+  "repo": "mndvns/angular-filter",
+  "description": "Custom filters for Angular",
+  "version": "0.4.9",
+  "keywords": ["angular", "filter"],
+  "dependencies": {
+    "camshaft/component-angular": "^1.2.16"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
